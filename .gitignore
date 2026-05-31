@@ -1,0 +1,6 @@
+# Assets repo -- allow report images through the global image block (~/.gitignore_global)
+!*.webp
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
