@@ -4,10 +4,11 @@ Public image assets for Sol Signal reports (charts, backtest tables)
 
 ## Use
 
-![image](https://raw.githubusercontent.com/flavioespinoza/sol-signal-report-assets/main/{name-of-image}.png) 
+![alt text](how-to-use.png)
 
+## Example
 
-## Voice model recordings or videos
+![image](https://raw.githubusercontent.com/flavioespinoza/sol-signal-report-assets/main/logo-solana-icon.png) 
 
-- https://youtu.be/zXlusy-fL-M
-- 
+<img src="https://raw.githubusercontent.com/flavioespinoza/sol-signal-report-assets/main/logo-solana-icon
+.png" />
